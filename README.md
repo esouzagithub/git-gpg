@@ -1,2 +1,2 @@
-# git-gpg
-GPG signature
+# GPG signature
+
